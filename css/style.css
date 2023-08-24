@@ -1,0 +1,173 @@
+.body{
+	margin: 40px 40px 40px 40px;
+}
+
+.title{
+	text-align: center;
+}
+.menubar{
+  font-size: 18px;
+  font-family: roboto;
+  text-decoration: none;
+  text-align: center;
+  word-spacing: 30px;
+}
+.emailloc{
+  font-size: 14px;
+  font-family: roboto;
+  word-spacing:30;
+}
+.anchor{
+  text-align: right;
+  font-size: 14px;
+  text-decoration: none;
+}
+.search{
+  font-size: 14px;
+  font-family: roboto;
+
+}
+.para{
+  font-family: roboto;
+  font-size: 16px;
+  margin: 40px 40px 40px 40px;
+  display: block;
+  line-height: 35px;
+}
+.img{
+  display: block;
+  margin: auto;
+}
+.title2{
+  text-align: center;
+}
+.title6{position: absolute;
+ width: 150px;
+ height: 30px;
+ background: #be9241;
+ display: block;
+ margin: center;
+ text-align: center;
+ font-size: 18px;
+
+}
+.para2{
+  font-size: 16px;
+  display: block;
+  line-height: 35px;
+}
+.aside{
+  margin: 15px 15px 15px 15px;
+  background: lightgray;
+  float: right;
+  width: 30%;
+  padding: 15px;
+}
+.all-browser {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browser > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 14px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 4px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 4px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.button3{
+  background-color: lightgray;
+  color: black;
+  border: 4px solid #FF0000;
+}
+.button3:hover{
+  background-color: #FF0000;
+  color: white;
+}
+#mycanvas{
+  width: 150px;
+  height: 150px;
+  border: solid;
+}
+.code{
+  background-color: lightgray;
+  padding: 2px;
+
+}
+browser{
+  display: none;
+}
+fieldset{
+  background-color: lightgray;
+  padding: 15px 15px;
+}
+legend{
+  background-color: lightgreen;
+}
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+.homework{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.spelling-error {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+}
